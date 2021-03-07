@@ -1,0 +1,8 @@
+<suite name="NHSBSA">
+ <test name="NHSBSA_Testing">
+  <classes>
+  	 <class name="base.Base" />
+     <class name="testSuite.Nhs_TestRunner"/>           
+  </classes>
+ </test>
+</suite>
